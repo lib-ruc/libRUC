@@ -31,8 +31,9 @@
   
 3、提交Pull request：
 
-待补充……
+点击页面上端菜单栏中的**Pull request**，点击绿色的**New pull request**，点击**Create pull request**，在新页面点击**Create pull request**。
 
+当页面跳转，显示“#”和PR编号且下方显示绿色的Open时，表示提交成功。请等待维护者的回应。
 
 方法二：github网页提交Issue
 
@@ -41,7 +42,6 @@
 2、在新页面中点击绿色的**New Issue**
 
 3、填写描述，上传文件（将文件拖至正文区），点击**Submit new issue**
-
 
 方法三：发送邮件至维护者
 
