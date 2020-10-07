@@ -14,7 +14,7 @@
 
 下载：
 
-打开对应文件，点击Download。
+打开对应文件，点击Download
 
 *通过点击页面最上端的 **libRUC**，可以回到根目录*
 
@@ -26,13 +26,13 @@
 
 2、上传文件：
 
-  1）到已有文件夹：点开对应目录，在目录右侧点击**Add file**，在下拉菜单中点击**Upload files**，将文件拖至指定区域（可一次上传多个文件），下拉页面并点击绿色的**Commit changes**。
+  1）到已有文件夹：点开对应目录，在目录右侧点击**Add file**，在下拉菜单中点击**Upload files**，将文件拖至指定区域（可一次上传多个文件），下拉页面并点击绿色的**Commit changes**
   
-  2）到新文件夹：在目录右侧点击**Add file**，在下拉菜单中点击**Upload files**，将网址改为新文件夹路径，将文件拖至指定区域（可一次上传多个文件），下拉页面并点击绿色的**Commit changes**。
+  2）到新文件夹：在目录右侧点击**Add file**，在下拉菜单中点击**Upload files**，将网址改为新文件夹路径，将文件拖至指定区域（可一次上传多个文件），下拉页面并点击绿色的**Commit changes**
   
 3、提交Pull request：
 
-点击页面上端菜单栏中的**Pull request**，点击绿色的**New pull request**，点击**Create pull request**，在新页面点击**Create pull request**。
+点击页面上端菜单栏中的**Pull request**，点击绿色的**New pull request**，点击**Create pull request**，在新页面点击**Create pull request**
 
 当页面跳转，显示“#”和PR编号且下方显示绿色的Open时，表示提交成功。请等待维护者的回应。
 
